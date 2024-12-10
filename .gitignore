@@ -1,0 +1,82 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest
+.cache/
+
+# Logs and debug
+*.log
+*.tmp
+*.bak
+*.orig
+*.swp
+*.swo
+*.DS_Store
+*.coverage
+htmlcov/
+.coverage.*
+.cache/
+*.cover
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+
+# Test results
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Temporary files
+*.~undo-tree~
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux files
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
